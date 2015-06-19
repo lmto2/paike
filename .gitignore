@@ -1,0 +1,12 @@
+﻿*.class
+*.gif
+*.jpg
+*.png
+*.jar
+WebRoot/WEB-INF/classes/*
+WebRoot/WEB-INF/classes/lib/*
+WebRoot/img/*
+ 
+ 
+ 
+ 
