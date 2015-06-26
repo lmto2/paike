@@ -15,10 +15,12 @@ import javax.servlet.http.HttpServletResponse;
 import com.dao.DB;
 import com.orm.TAdmin;
 
+
 public class admin_servlet extends HttpServlet
 {
 	/**
 	 * 
+   *
 	 */
 	private static final long serialVersionUID = 924487862162479107L;
 
